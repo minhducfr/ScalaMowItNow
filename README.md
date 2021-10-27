@@ -25,7 +25,7 @@ Exécuter le fichier "ApplicationMowItNow.scala".
 Une fois le programme demande le répertoire du fichier d'entrée, copiez le chemin d'accès du fichier et taper "Entrer"
 Les erreurs fréquentes avec le fichier d'entrée:
 - fichier introuvalable: le programme n'arrive pas à trouver le fichier d'entrée à cause du faux chemin d'accès.
-- le format d'entrée n'est pas valable: les dimensions de la pelouse ou les coordonnées de la tondeuse ne sont pas les entiers.
+- le format d'entrée n'est pas valable: soit les dimensions de la pelouse ou les coordonnées de la tondeuse ne sont pas les entiers, soit il n'y a pas d'espace entre les coordonnées de la tondeues, soit il manque de la coordonnée de la tondeuse.
 - L'orientation initiale n'est pas valable: l'orientation de la tondeuse n'est pas l'une des lettres "N", "E", "S" et "W".
-- L'espace entre dimensions est obligatoire: il n'y a pas d'espace entre les dimensions de la pelouse ou les coordonnées de la tondeuse.
+- L'espace entre dimensions est obligatoire: il n'y a pas d'espace entre les dimensions de la pelouse.
 - Si l'opération n'est pas l'une des lettres "D", "G" et "A", le programme va immprimer l'affiche, dépasser l'opération et exécuter l'opération suivante sans quiter le programme.
