@@ -20,7 +20,7 @@ et une lettre, séparés par un espace.
 - la seconde ligne est une série d'instructions ordonnant à la tondeuse d'explorer
 la pelouse. Les instructions sont une suite de caractères sans espaces.
 
-Pour exécuter l'application MowItNow, veillez-vous de télécharger le fichier "ApplicationMowItNow.scala" et le fichier "Input.txt".
+Pour exécuter l'application MowItNow, veillez-vous de télécharger le fichier "ApplicationMowItNow.scala" et le fichier "Input.txt" ou bien créer votre fichier d'entréer suite aux reglementations ci-dessus.
 Exécuter le fichier "ApplicationMowItNow.scala".
 Une fois le programme demande le répertoire du fichier d'entrée, copiez le chemin d'accès du fichier et taper "Entrer"
 Les erreurs fréquentes avec le fichier d'entrée:
